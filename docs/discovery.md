@@ -10,6 +10,10 @@
 - Rp140.000 - Rp900.000: admin 5K.
 - Rp1.000.000 ke atas: admin 10K / 30K.
 - Pelanggan cenderung memilih nominal hasil yang genap.
+- Setiap karyawan menerima saldo sebesar Rp1.000.000 dari bos untuk periode sekitar 1 minggu.
+- Semua transaksi harus dicatat.
+- Setoran resmi dilakukan sekitar 1 bulan sekali.
+- Laporan internal direncanakan dapat dibuat setiap 1 minggu untuk memantau periode saldo.
 
 ## 2. Hipotesis
 
