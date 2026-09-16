@@ -37,3 +37,72 @@ Belum ada.
 ## 5. Perubahan / Temuan Baru
 
 Belum ada.
+
+## 6. Catatan Wawancara
+
+### A. Jenis Transaksi
+
+#### Cash -> Saldo
+- Alur:
+- Nominal yang umum:
+- Admin:
+- Saldo yang diterima:
+- Aplikasi/provider:
+- Data yang dicatat:
+
+#### Saldo -> Cash
+- Alur:
+- Nominal yang umum:
+- Admin:
+- Cash yang diterima:
+- Aplikasi/provider:
+- Data yang dicatat:
+
+### B. Cash & Saldo
+
+- Cash masuk:
+- Cash keluar:
+- Saldo masuk:
+- Saldo keluar:
+- Cara mengetahui saldo:
+- Cara mengetahui cash:
+
+### C. Aturan Harga/Admin
+
+- Rp5.000–Rp130.000:
+- Rp140.000–Rp900.000:
+- Rp1.000.000+:
+- Aturan lainnya:
+- Kapan aturan harga berubah:
+
+### D. Pencatatan
+
+- Media pencatatan:
+- Data yang dicatat:
+- Siapa yang mencatat:
+- Kapan dicatat:
+- Laporan harian:
+- Laporan bulanan:
+
+### E. Masalah
+
+- Kesalahan yang sering terjadi:
+- Transaksi sulit dilacak:
+- Perhitungan yang merepotkan:
+- Masalah saldo:
+- Masalah cash:
+- Masalah lainnya:
+
+### F. Aplikasi / Provider
+
+- Nama:
+- Fungsinya:
+- Cara kerja:
+- Saldo/deposit:
+- Biaya:
+- Batas transaksi:
+- Hal lain:
+
+### G. Hal yang Belum Dipahami
+
+- 
