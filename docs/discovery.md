@@ -14,6 +14,85 @@
 - Semua transaksi harus dicatat.
 - Setoran resmi dilakukan sekitar 1 bulan sekali.
 - Laporan internal direncanakan dapat dibuat setiap 1 minggu untuk memantau periode saldo.
+## Dpulsa — System Context
+
+Dpulsa (D-Pulsa) merupakan aplikasi/platform PPOB dan distributor produk digital
+yang digunakan sebagai provider transaksi.
+
+### Fungsi Utama Dpulsa
+
+Dpulsa menyediakan berbagai produk dan layanan digital, antara lain:
+
+- Pulsa
+- Paket data
+- Transfer/top-up e-wallet
+- Pembayaran PLN
+- PDAM
+- BPJS
+- Pembayaran tagihan lainnya
+- Voucher/gift card
+- Produk digital lainnya
+
+Pengguna memiliki saldo pada akun Dpulsa. Transaksi dilakukan melalui aplikasi
+dan saldo digunakan untuk membayar produk/layanan yang dibeli.
+
+### Biaya Dpulsa
+
+Informasi yang diperoleh:
+
+- Pendaftaran akun: Rp0
+- Biaya bulanan: Rp0
+- Pulsa, paket data, dan e-wallet: tidak dikenakan admin tambahan dari Dpulsa,
+  tetapi produk memiliki harga modal tertentu.
+- PPOB seperti PLN, PDAM, dan BPJS: terdapat biaya admin yang bergantung pada
+  jenis layanan, sekitar Rp1.500–Rp3.500 per transaksi.
+- Deposit saldo melalui transfer bank/Virtual Account: Rp0 sesuai jalur yang
+  ditentukan Dpulsa.
+- Beberapa metode deposit seperti Indomaret, Alfamart, atau e-wallet tertentu
+  dapat memiliki biaya pihak ketiga sekitar Rp1.000–Rp2.500.
+
+### Hubungan Dpulsa dengan NZA Coop
+
+Dpulsa bukan sistem yang sedang dibuat oleh NZA Coop.
+
+Dpulsa berperan sebagai provider/platform eksternal yang menyediakan produk dan
+menjadi tempat saldo operasional digunakan untuk melakukan transaksi.
+
+NZA Coop berfungsi sebagai sistem internal untuk:
+
+- mencatat transaksi,
+- mencatat penggunaan saldo Dpulsa,
+- mencatat uang cash,
+- mencatat harga/modal produk,
+- mencatat harga yang dibayar pelanggan,
+- menghitung margin/keuntungan,
+- mengelola hutang pelanggan,
+- dan menghasilkan laporan.
+
+### Catatan Penting
+
+Harga modal Dpulsa dan harga jual kepada pelanggan harus dipisahkan.
+
+Contoh:
+
+    Harga produk/nominal       = Rp10.000
+    Harga modal Dpulsa         = Rp10.300
+    Harga yang dibayar customer = Rp12.000
+
+    Margin bisnis = Rp12.000 - Rp10.300
+                  = Rp1.700
+
+Contoh tersebut hanya ilustrasi. Besaran harga jual dan margin NZA Coop
+masih harus dikonfirmasi sebagai aturan bisnis.
+
+### Hal yang Belum Dipastikan
+
+- Bagaimana tepatnya NZA Coop menentukan harga jual setiap produk.
+- Apakah setiap jenis produk mempunyai aturan margin berbeda.
+- Bagaimana biaya/admin Dpulsa dicatat dalam pembukuan NZA Coop.
+- Bagaimana saldo Dpulsa direkonsiliasi dengan transaksi yang dicatat NZA Coop.
+- Apakah NZA Coop nantinya membutuhkan integrasi/API dengan Dpulsa atau cukup
+  menggunakan pencatatan manual.
 
 ## 2. Hipotesis
 
